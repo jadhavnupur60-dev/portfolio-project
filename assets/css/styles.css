@@ -1,0 +1,20 @@
+/* Header styling */
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Links */
+.nav-link {
+  color: #333333;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+/* Image Gallery Layout */
+.gallery img {
+  display: block;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
